@@ -1,0 +1,17 @@
+ipykernel
+pandas 
+numpy 
+matplotlib 
+seaborn 
+scikit-learn 
+imbalanced-learn 
+xgboost 
+flask 
+streamlit
+sympy
+yfinance
+plotly
+openpyxl
+tensorflow
+tensorflow==2.19.0
+tensorboard
